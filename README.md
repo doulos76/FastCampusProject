@@ -7,12 +7,12 @@
 ## Trade Diary
 ![](./img/img.png)
 
-[![](https://www.youtube.com/embed/wmiG7KTJjuU)](https://www.youtube.com/embed/wmiG7KTJjuU)
+[![](https://www.youtube.com/embed/wmiG7KTJjuU/0.jpg)](https://www.youtube.com/embed/wmiG7KTJjuU?t=0s)
 
-```markdown
+<!--```markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmiG7KTJjuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-
+-->
 ### Trade Diary란?
 
 * 지인들간의 일기를 서로 교환해서 볼 수 있는 Diary
