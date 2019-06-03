@@ -11,10 +11,12 @@
 
 [![Video Label](https://www.youtube.com/embed/wmiG7KTJjuU/0.jpg)](https://www.youtube.com/embed/wmiG7KTJjuU?t=0s)
 -->
-```markdown
+<!--```markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmiG7KTJjuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wmiG7KTJjuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--><!--<iframe width="560" height="315" src="https://www.youtube.com/embed/wmiG7KTJjuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+
+[동영상 링크](https://www.youtube.com/embed/wmiG7KTJjuU)
 
 
 ### Trade Diary란?
